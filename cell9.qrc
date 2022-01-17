@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>cell9.qrc</file>
+  </qresource>
+  <qresource prefix="cell">
+    <file>cell9.png</file>
+    <file>cell9.qrc</file>
+  </qresource>
+</RCC>
